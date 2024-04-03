@@ -1,5 +1,5 @@
 # TTLRR
-LRTD-Destriping
+
 The Matlab code implementation of Robust Corrupted Data Recovery and Clustering via Generalized Transformed Tensor Low-Rank Representation
 
 The paper is available at: https://ieeexplore.ieee.org/document/9938412
