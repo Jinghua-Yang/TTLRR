@@ -89,7 +89,6 @@ if EN_TTNN_Data
     %%%%
     fprintf('\n');
     disp(['performing ',methodname{j}, ' ... ']);
-
     %% construct the dictionary  
     opts.denoising_flag=0; % set the flag whether we use R-TPCA to construct the dictionary 
     % (1 denotes we use R-TPCA; 0 deonotes we do not use)
